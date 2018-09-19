@@ -1,0 +1,11 @@
+C:\Users\dapar\Documents\VSCore\Espiral\bin\Debug\netcoreapp2.1\Espiral.deps.json
+C:\Users\dapar\Documents\VSCore\Espiral\bin\Debug\netcoreapp2.1\Espiral.runtimeconfig.json
+C:\Users\dapar\Documents\VSCore\Espiral\bin\Debug\netcoreapp2.1\Espiral.runtimeconfig.dev.json
+C:\Users\dapar\Documents\VSCore\Espiral\bin\Debug\netcoreapp2.1\Espiral.dll
+C:\Users\dapar\Documents\VSCore\Espiral\bin\Debug\netcoreapp2.1\Espiral.pdb
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.csprojAssemblyReference.cache
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.csproj.CoreCompileInputs.cache
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.AssemblyInfoInputs.cache
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.AssemblyInfo.cs
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.dll
+C:\Users\dapar\Documents\VSCore\Espiral\obj\Debug\netcoreapp2.1\Espiral.pdb
